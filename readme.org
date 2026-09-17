@@ -2,3 +2,6 @@
 - make a ~.env~ file and get the api key from this website [[https://console.groq.com/keys][link]] (tho you should sign in for that)
 - then create a variable named ~VITE_API_KEY~ *NOTE:* it should be that name only or else wont work. (vite has this weird rule for naming its environmental vars starting with VITE idk gng)
 - then do ~npm i && npm run dev~ and this should work
+
+
+**NOTE** this is no longer maintained
